@@ -1,0 +1,9 @@
+{
+  "name": "video-antes-depois",
+  "private": true,
+  "description": "Vídeo vertical de antes e depois para clínicas, com o resultado guardado até a revelação.",
+  "dependencies": {
+    "gsap": "3.14.2",
+    "hyperframes": "0.9.70"
+  }
+}

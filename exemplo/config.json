@@ -1,0 +1,36 @@
+{
+  "clinica": {
+    "nome": "Clínica Exemplo",
+    "assinatura": "Dra. Nome Exemplo · Especialidade · CRM-UF 00000 · RQE 00000",
+    "nome_linha": "Clínica Exemplo · Saúde e bem-estar",
+    "logo_clara": "marca/logo-branca.png",
+    "instagram": "@clinicaexemplo"
+  },
+  "visual": { "escuro": "#1F2430", "destaque": "#D29A86", "claro": "#F7F4F0" },
+  "autorizacao_paciente": true,
+  "caso": {
+    "metodo": "Programa Exemplo",
+    "abertura": ["Cada passo", "<em>conta</em>."],
+    "vistas": [
+      {"titulo": "De <em>frente</em>", "antes": "fotos/frente-antes.jpg", "depois": "fotos/frente-depois.jpg"},
+      {"titulo": "De <em>lado</em>", "antes": "fotos/lado-antes.jpg", "depois": "fotos/lado-depois.jpg"}
+    ],
+    "numeros": {
+      "rotulo": "Números de exemplo",
+      "rotulo_paciente": "Números de exemplo",
+      "titulo": ["O que a foto", "<em>não mostra</em>."],
+      "linhas": [
+        ["Cintura", "92", "84", "cm", "−8 cm"],
+        ["Quadril", "108", "101", "cm", "−7 cm"]
+      ],
+      "fecho": ["Menos medida,", "<em>mais disposição.</em>"],
+      "fecho_paciente": ["Você chegou até aqui", "<em>com a sua dedicação.</em>"]
+    },
+    "final_paciente": {"periodo": "90 dias de Programa Exemplo.", "assina": "Dra. Nome Exemplo"},
+    "final_publico": {
+      "frase": "“Cuidar de perto é o nosso <em>tratamento</em>.”",
+      "botao": "Agende sua avaliação",
+      "linha": "Atendimento presencial"
+    }
+  }
+}

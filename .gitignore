@@ -1,0 +1,5 @@
+node_modules/
+casos/*
+!casos/LEIA-ME.md
+exemplo/saida/*/composition/
+__pycache__/
